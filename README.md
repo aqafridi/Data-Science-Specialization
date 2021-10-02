@@ -1,5 +1,5 @@
 # DataScience
-## [<font color="red"> Python for Data Science, AI & Development</font>](https://github.com/aqafridi/Data-Analytics/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
+## [Python for Data Science, AI & Development](https://github.com/aqafridi/Data-Analytics/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 
 * [**Python Basics**](https://github.com/aqafridi/Data-Analytics/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development/1.%20Python%20Basics)
 * [**Python Data Structures**](https://github.com/aqafridi/Data-Analytics/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development/2.%20Python%20Data%20Structures)
