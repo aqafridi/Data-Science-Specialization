@@ -42,3 +42,10 @@
 * [**Visualizing Geospatial Data**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
 * [**Dashboards with Plotly and Dash**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
 
+## Applied Data Science Capstone
+* [**1. Data Collection and Wrangling**]()
+* [**2. Exploratory Analysis- SQL, Pandas,Matplotlib**]()
+* [**3. Interactive Visual Analytics and Dashboard**]()
+* [**4. Predictive Analysis (Classification)**]()
+* [**5. Present Data-Driven Insights**]()
+
