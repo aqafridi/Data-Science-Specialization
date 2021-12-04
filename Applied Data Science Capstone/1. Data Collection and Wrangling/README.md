@@ -8,4 +8,6 @@
   </div>
 </div>
 
-![landing_1.gif](landing_1.gif)[landing_1.gif](landing_1.gif)
+![landing_1.gif](landing_1.gif)
+![crash.gif](crash.gif)
+
