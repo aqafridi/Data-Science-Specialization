@@ -7,4 +7,5 @@
     <img src="crash.gif" alt="Crash" style="width:50%">
   </div>
 </div>
+
 ![landing_1.gif](landing_1.gif)
