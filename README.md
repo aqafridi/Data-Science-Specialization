@@ -43,9 +43,9 @@
 * [**Dashboards with Plotly and Dash**](https://github.com/aqafridi/Data-Analytics/tree/main/Data%20Visualization%20with%20Python)
 
 ## Applied Data Science Capstone
-* [**1. Data Collection and Wrangling**]()
-* [**2. Exploratory Analysis- SQL, Pandas,Matplotlib**]()
-* [**3. Interactive Visual Analytics and Dashboard**]()
-* [**4. Predictive Analysis (Classification)**]()
+* [**1. Data Collection and Wrangling**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Applied%20Data%20Science%20Capstone/1.%20Data%20Collection%20and%20Wrangling)
+* [**2. Exploratory Analysis- SQL, Pandas,Matplotlib**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Applied%20Data%20Science%20Capstone/2.%20Exploratory%20Analysis-%20SQL%2C%20Pandas%2CMatplotlib)
+* [**3. Interactive Visual Analytics and Dashboard**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Applied%20Data%20Science%20Capstone/3.%20Interactive%20Visual%20Analytics%20and%20Dashboard)
+* [**4. Predictive Analysis (Classification)**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Applied%20Data%20Science%20Capstone/4.%20Predictive%20Analysis%20(Classification))
 * [**5. Present Data-Driven Insights**]()
 
