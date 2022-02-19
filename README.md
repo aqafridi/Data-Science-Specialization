@@ -48,4 +48,5 @@
 * [**3. Interactive Visual Analytics and Dashboard**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Applied%20Data%20Science%20Capstone/3.%20Interactive%20Visual%20Analytics%20and%20Dashboard)
 * [**4. Predictive Analysis (Classification)**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Applied%20Data%20Science%20Capstone/4.%20Predictive%20Analysis%20(Classification))
 * [**5. Present Data-Driven Insights**](https://github.com/aqafridi/Data-Science-Specialization/tree/main/Applied%20Data%20Science%20Capstone/5.%20Present%20Data-Driven%20Insights)
-
+## Certificate of Specialization
+![Data-Science-Specialization](https://github.com/aqafridi/Data-Science-Specialization/blob/main/IBM%20data%20science%20certification%20.png)
